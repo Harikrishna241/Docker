@@ -1,4 +1,3 @@
 FROM nginx 
-LABEL label1="value1" \
-      label2="value2" \
-      other="value3"
+LABEL author="hari" 
+      
